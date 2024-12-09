@@ -66,7 +66,7 @@ Our solution addresses these limitations by converting both product descriptions
 - **Response Time**: Under 1.5 seconds on average.
 
 
-Input : i am looking for a gym tshist
+Input : **i am looking for a gym tshist** <br>
 *spelling mistake done with purpose*
 ```powershell
 (.venv) E:\MLSA>e:/MLSA/.venv/Scripts/python.exe e:/MLSA/main.py
